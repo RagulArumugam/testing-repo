@@ -4,3 +4,10 @@ commit-3
 --
 commit-4
 commit-5
+--
+commit after dev2 to QA merge 1 in dev2
+commit after dev2 to QA merge 2 in dev2
+commit after dev2 to QA merge 3 in dev2
+--
+commit after dev2 to QA merge 4 in dev2
+commit after dev2 to QA merge 5 in dev2
